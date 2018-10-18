@@ -1,0 +1,33 @@
+@model auction.Models.Product
+
+<a href="/dashboard">Dashboard</a>
+<a href="logout">Logout</a>
+
+
+    <div>
+        <h2>Plan Your Wedding</h2>
+        <form asp-controller="Product" asp-action="addproduct" method="post">
+            <span asp-validation-for="name"></span>
+            <label asp-for="name"></label>
+            <br><br>
+            <input asp-for="name" />
+            <br><br>
+            <span asp-validation-for="description"></span>
+            <br><br>
+            <label asp-for="description"></label>
+            <br><br>
+            <input asp-for="description" />
+            <br><br>
+            <span asp-validation-for="startingbid"></span>
+            <label asp-for="startingbid"></label>
+            <br><br>
+            <input asp-for="startingbid" />
+            <br><br>
+            <span asp-validation-for="date"></span>
+            <label asp-for="date"></label>
+            <br><br>
+            <input asp-for="date" />
+            <br><br>
+            <button type="submit" class="btn">Create</button>
+        </form>
+    </div>

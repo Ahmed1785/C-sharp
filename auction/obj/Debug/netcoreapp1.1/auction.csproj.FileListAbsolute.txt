@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\bin\Debug\netcoreapp1.1\auction.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\bin\Debug\netcoreapp1.1\auction.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\bin\Debug\netcoreapp1.1\auction.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\obj\Debug\netcoreapp1.1\auction.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\bin\Debug\netcoreapp1.1\auction.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\bin\Debug\netcoreapp1.1\auction.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\obj\Debug\netcoreapp1.1\auction.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\auction\obj\Debug\netcoreapp1.1\auction.pdb

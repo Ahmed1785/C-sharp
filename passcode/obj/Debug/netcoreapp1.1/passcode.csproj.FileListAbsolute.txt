@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\bin\Debug\netcoreapp1.1\passcode.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\bin\Debug\netcoreapp1.1\passcode.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\bin\Debug\netcoreapp1.1\passcode.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\bin\Debug\netcoreapp1.1\passcode.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\bin\Debug\netcoreapp1.1\passcode.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\obj\Debug\netcoreapp1.1\passcode.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\obj\Debug\netcoreapp1.1\passcode.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\passcode\obj\Debug\netcoreapp1.1\passcode.pdb

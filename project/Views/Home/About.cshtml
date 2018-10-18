@@ -1,0 +1,35 @@
+﻿    <style>
+table, tr, td, th {
+   border: 1px solid black;
+}
+    </style>
+    <a href="logout">Logout</a>
+    <h2>Welcome to the Activity Planner</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            var search = document.getElementById("search").value
+            $.ajax({
+                type: "GET",
+                url: "https://api.bookshare.org/book/search/title/Harry%20Potter/page/1/limit/1/format/json/for/ahmedsheikh253@gmail.com?api_key=e5u4hptkxbz8bgh57jmsnf9n",
+                dataType: "json",
+                success: function (data) {
+                    console.log("data", data);
+                }
+            })
+        });
+    </script>
+</head>
+<body>
+    <h1>Book Finder</h1>
+    <input id="search" placeholder="search" name="search">
+    <input id="button" type="submit" name="submit">
+</body>
+</html>

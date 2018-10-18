@@ -1,0 +1,36 @@
+namespace ConsoleApplication {
+    public class Card {
+        public string stringVal {
+            get {
+                if(val > 1 && val < 11){
+                    return val.ToString();
+                }
+                else if(val == 11){
+                    return "Jack";
+                }
+                else if(val == 12){
+                    return "Queen";
+                }
+                else if(val == 13){
+                    return "King";
+                }
+                else if(val == 1){
+                    return "Ace";
+                }
+                else{
+                    return "Joker";
+                }
+            }
+        }
+        public int val; 
+        public string suit;
+
+        public Card(string CardSuit, int numVal) {
+            suit = CardSuit;
+            val = numVal;
+        }
+        public override string ToString(){
+            return stringVal + " of " + suit;
+        }
+    }
+}

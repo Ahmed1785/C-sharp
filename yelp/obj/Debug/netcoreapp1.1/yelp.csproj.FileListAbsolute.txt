@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\bin\Debug\netcoreapp1.1\yelp.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\bin\Debug\netcoreapp1.1\yelp.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\bin\Debug\netcoreapp1.1\yelp.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\bin\Debug\netcoreapp1.1\yelp.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\bin\Debug\netcoreapp1.1\yelp.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\obj\Debug\netcoreapp1.1\yelp.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\obj\Debug\netcoreapp1.1\yelp.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\yelp\obj\Debug\netcoreapp1.1\yelp.pdb

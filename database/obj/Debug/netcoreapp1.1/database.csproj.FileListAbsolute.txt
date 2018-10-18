@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\bin\Debug\netcoreapp1.1\database.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\bin\Debug\netcoreapp1.1\database.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\bin\Debug\netcoreapp1.1\database.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\bin\Debug\netcoreapp1.1\database.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\bin\Debug\netcoreapp1.1\database.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\obj\Debug\netcoreapp1.1\database.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\obj\Debug\netcoreapp1.1\database.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\database\obj\Debug\netcoreapp1.1\database.pdb

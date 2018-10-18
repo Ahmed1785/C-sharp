@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Random passcode Generator</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+        <style>
+            .header{
+                display: inline-block;
+                margin: 20px;
+            }
+            .main{
+                border: solid 1px;
+            }
+
+            form{
+                display: inline-block;
+                margin: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="top">
+            <p class="header" name="Fullness">Fullness: @ViewBag.Fullness</p>
+            <p class="header" name="Happiness">Happiness: @ViewBag.Happiness</p>
+            <p class="header" name="Meals">Meals: @ViewBag.Meals</p>
+            <p class="header" name="Energy">Energy: @ViewBag.Energy</p>
+        </div>
+        <div class="main">
+            <p>you played your dojodaichi</p>
+        </div>
+        <div class="footer">
+            <form action="/feed" method="post">
+                <input type="submit" class="button" value="Feed">
+            </form>
+            <form action="/Play" method="post">
+                <input type="submit" "button" value="Play">
+            </form>
+            <form action="/Work" method="post">
+                <input type="submit" "button" value="Work">
+            </form>
+            <form action="/Sleep" method="post">
+                <input type="submit" "button" value="Sleep">
+            </form>
+            <form action="/Restart" method="post">
+                <input type="submit" "button" value="Restart">
+            </form>
+        </div>
+    </body>
+</html>

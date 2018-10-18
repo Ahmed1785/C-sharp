@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\bin\Debug\netcoreapp1.1\index.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\bin\Debug\netcoreapp1.1\index.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\bin\Debug\netcoreapp1.1\index.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\obj\Debug\netcoreapp1.1\index.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\bin\Debug\netcoreapp1.1\index.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\bin\Debug\netcoreapp1.1\index.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\obj\Debug\netcoreapp1.1\index.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\index\obj\Debug\netcoreapp1.1\index.pdb

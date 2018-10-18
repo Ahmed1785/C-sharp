@@ -1,0 +1,38 @@
+﻿    <style>
+table, tr, td, th {
+   border: 1px solid black;
+}
+    </style>
+    <a href="logout">Logout</a>
+    <h2>Welcome to the Wedding Planner, @ViewBag.User.first_name! </h2>
+      
+    <table>
+        <tr>
+            <th>Product</th>
+            <th>Seller</th> 
+            <th>Top Bid</th>
+            <th>Time Remaining</th>
+            <th>Action</th>
+        </tr>
+    @foreach(var x in @ViewBag.products)
+    {
+        <tr>
+            <td>@x.first_name</td>
+            <td>@x.description</td> 
+            <td>@x.bid</td>
+            <td>@x.date.ToString("D")</td>
+            <td><a href="/deleteproduct/@x.product_id">Delete</a></td>
+            
+        </tr>
+    }
+       
+    </table>
+
+
+    
+    
+    <form action="productform" method="get">
+        <h3>
+            <button class="btn">New Product</button>
+        </h3>
+    </form>

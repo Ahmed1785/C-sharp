@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\bin\Debug\netcoreapp1.1\inheirtance.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\bin\Debug\netcoreapp1.1\inheirtance.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\bin\Debug\netcoreapp1.1\inheirtance.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\bin\Debug\netcoreapp1.1\inheirtance.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\bin\Debug\netcoreapp1.1\inheirtance.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\obj\Debug\netcoreapp1.1\inheirtance.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\obj\Debug\netcoreapp1.1\inheirtance.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\inheirtance\obj\Debug\netcoreapp1.1\inheirtance.pdb

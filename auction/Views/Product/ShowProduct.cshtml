@@ -1,0 +1,16 @@
+<nav>
+    <h1>User: @ViewBag.oneproduct.name</h1>
+    <a href="/dashboard">Dashboard</a>
+    <a href="logout">Logout</a>
+</nav>
+<h3>@ViewBag.oneproduct.Date.ToString("D")</h3>
+<h3>Bidders:</h3>
+<ul>
+
+   @foreach (var x in @ViewBag.product.User)
+   {
+       <li> @x.User.first_name @x.User.last_name</li>
+      
+   }
+    
+</ul>

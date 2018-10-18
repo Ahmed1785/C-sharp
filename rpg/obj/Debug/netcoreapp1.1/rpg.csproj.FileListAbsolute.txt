@@ -1,0 +1,8 @@
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\bin\Debug\netcoreapp1.1\rpg.deps.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\bin\Debug\netcoreapp1.1\rpg.runtimeconfig.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\bin\Debug\netcoreapp1.1\rpg.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\bin\Debug\netcoreapp1.1\rpg.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\bin\Debug\netcoreapp1.1\rpg.pdb
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\obj\Debug\netcoreapp1.1\rpg.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\obj\Debug\netcoreapp1.1\rpg.dll
+C:\Users\ahmed\Desktop\DojoAssignments\netCore\rpg\obj\Debug\netcoreapp1.1\rpg.pdb
